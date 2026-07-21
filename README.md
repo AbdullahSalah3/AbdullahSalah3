@@ -1,48 +1,32 @@
-# Hi there, I'm Abdullah Salah! 👋
+<!-- TOP HEADER BANNER & ANIMATION -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=200&section=header&text=ABDULLAH%20SALAH&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Backend%20Software%20Engineer%20%7C%20Cloud%20Architect&descAlignY=60&descAlign=50" width="100%" />
 
-3rd Year Computer Science Student at Alamein International University 🎓  
-**Backend Software Engineer | Cloud & DevOps Enthusiast**
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3FB950&center=true&width=700&height=40&lines=Computer+Science+%40+Alamein+International+University;Engineered+High-Throughput+Java+%26+Node.js+Backends;AWS+Certified+Solutions+Architect+(SAA-C03)+Candidate;Competitive+Programmer+%26+Algorithms+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
 
----
+<br />
 
-### 👨‍💻 About Me
+<!-- QUICK METRICS -->
+<div align="center">
 
-- 🎓 Currently pursuing a Bachelor's degree in **Computer Science** at **Alamein International University**.
-- ⚙️ Deeply passionate about **Backend Development**, **Cloud Architecture**, and **Database Design**.
-- ☁️ Currently preparing for the **AWS Certified Solutions Architect – Associate (SAA-C03)** exam.
-- 🧩 Active in **Competitive Programming** and algorithmic problem-solving.
-- 📍 Based in **Egypt** 🇪🇬.
+[![GitHub Followers](https://img.shields.io/github/followers/AbdullahSalah3?style=for-the-badge&logo=github&color=238636&labelColor=0d1117)](https://github.com/AbdullahSalah3)
+[![AWS Target](https://img.shields.io/badge/AWS-SAA--C03%20Preparing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117)](#)
+[![Location](https://img.shields.io/badge/Location-Egypt%20%F0%9F%87%AA%F0%9F%87%AC-008751?style=for-the-badge&labelColor=0d1117)](#)
 
----
-
-### 🛠️ Tech Stack & Tools
-
-* **Languages:** Java, Python, C++, JavaScript (Node.js), SQL
-* **Backend & Web:** Node.js, Express.js, RESTful APIs, System Design & Architecture
-* **Cloud & DevOps:** AWS, Linux, Git & GitHub, Docker (Learning)
-* **Databases:** PostgreSQL, MySQL, Database Normalization (3NF) & Query Optimization
-* **Concepts:** Data Structures & Algorithms, Object-Oriented Programming (OOP), Functional Programming
+</div>
 
 ---
 
-### 🚀 Featured Projects
+## ⚡ `whoami`
 
-* **[Telecom Billing System](https://github.com/AbdullahSalah3)**  
-  *High-scale enterprise software built with Java, focusing on data processing pipelines using the Java Collections Framework and Streams API.*
+```bash
+$ info --user abdullahsalah
 
-* **[Rescue Me](https://github.com/AbdullahSalah3)**  
-  *Full-stack web application designed to streamline the reporting, tracking, treatment, and adoption workflows of street animals.*
-
-* **[Tic-Tac-Toe AI Engine](https://github.com/AbdullahSalah3)**  
-  *Python desktop application built with Tkinter, featuring an unbeatable Minimax AI engine with Alpha-Beta Pruning.*
-
----
-
-### 📫 Connect with Me
-
-* **Email:** [shamselden646@gmail.com](mailto:shamselden646@gmail.com)
-* **GitHub:** [@AbdullahSalah3](https://github.com/AbdullahSalah3)
-
----
-
-> *"Continuous learning and building robust, scalable solutions."*
+[+] Role:            Backend Software Engineer
+[+] Education:       3rd Year CS Student @ Alamein International University
+[+] Core Expertise:  Clean Architecture, System Design, Relational DB Normalization (3NF)
+[+] Current Focus:   High-Scalability Backend Systems & AWS Cloud Deployment
+[+] Status:          Open to Engineering Internships & Open-Source Collaboration
