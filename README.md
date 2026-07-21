@@ -1,32 +1,222 @@
-<!-- TOP HEADER BANNER & ANIMATION -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=200&section=header&text=ABDULLAH%20SALAH&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Backend%20Software%20Engineer%20%7C%20Cloud%20Architect&descAlignY=60&descAlign=50" width="100%" />
+# Hi, I'm Abdullah Salah 👋
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3FB950&center=true&width=700&height=40&lines=Computer+Science+%40+Alamein+International+University;Engineered+High-Throughput+Java+%26+Node.js+Backends;AWS+Certified+Solutions+Architect+(SAA-C03)+Candidate;Competitive+Programmer+%26+Algorithms+Enthusiast" alt="Typing SVG" />
-  </a>
-</div>
+### Backend Software Engineer | Java & Spring Boot Developer
 
-<br />
+I'm a Computer Science student passionate about building scalable backend systems, designing clean software architectures, and solving real-world engineering problems.
 
-<!-- QUICK METRICS -->
-<div align="center">
-
-[![GitHub Followers](https://img.shields.io/github/followers/AbdullahSalah3?style=for-the-badge&logo=github&color=238636&labelColor=0d1117)](https://github.com/AbdullahSalah3)
-[![AWS Target](https://img.shields.io/badge/AWS-SAA--C03%20Preparing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117)](#)
-[![Location](https://img.shields.io/badge/Location-Egypt%20%F0%9F%87%AA%F0%9F%87%AC-008751?style=for-the-badge&labelColor=0d1117)](#)
-
-</div>
+My primary focus is **Java Backend Development** with **Spring Boot**, while continuously expanding my knowledge in cloud computing, distributed systems, and DevOps.
 
 ---
 
-## ⚡ `whoami`
+## 🚀 About Me
 
-```bash
-$ info --user abdullahsalah
+- 💻 Backend Software Engineering enthusiast
+- ☕ Specialized in Java and Spring Boot
+- 🏗 Interested in scalable system design and enterprise applications
+- 🌐 Learning cloud-native development with AWS & Docker
+- 📚 Always improving my problem-solving and software engineering skills
+- 🎯 Goal: Build production-grade backend systems for large-scale applications
 
-[+] Role:            Backend Software Engineer
-[+] Education:       3rd Year CS Student @ Alamein International University
-[+] Core Expertise:  Clean Architecture, System Design, Relational DB Normalization (3NF)
-[+] Current Focus:   High-Scalability Backend Systems & AWS Cloud Deployment
-[+] Status:          Open to Engineering Internships & Open-Source Collaboration
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+
+---
+
+### Backend Development
+
+- Java
+- Spring Boot
+- REST APIs
+- MVC Architecture
+- Maven
+- Node.js
+- Express.js
+
+---
+
+### Databases
+
+- PostgreSQL
+- MySQL
+- SQL
+- Database Design
+- Database Normalization (3NF)
+- Query Optimization
+
+---
+
+### Cloud & DevOps
+
+- AWS
+- Linux
+- Git & GitHub
+- Docker *(Currently Learning)*
+
+---
+
+### Computer Science Fundamentals
+
+- Object-Oriented Programming (OOP)
+- Functional Programming
+- Data Structures & Algorithms
+- Design Patterns
+- System Design
+- Software Architecture
+
+---
+
+# Featured Projects
+
+## 📡 Telecom Billing System
+
+**Enterprise Java Billing Platform**
+
+A high-throughput Telecom Billing System built in Java for processing large-scale billing transactions.
+
+### Features
+
+- Multi-customer billing management
+- Billing calculation engine
+- Java Streams API
+- Object-Oriented Design
+- Exception Handling
+- Clean Architecture
+- Scalable code structure
+
+**Tech Stack**
+
+`Java` • `Collections` • `Streams API` • `OOP`
+
+---
+
+## ☕ Java Backend Spring Boot
+
+Production-ready backend application built using Spring Boot following enterprise development practices.
+
+### Highlights
+
+- RESTful APIs
+- Layered Architecture
+- Spring Boot
+- Dependency Injection
+- Validation
+- Exception Handling
+- Database Integration
+
+**Tech Stack**
+
+`Java` • `Spring Boot` • `REST API` • `MySQL`
+
+---
+
+## 🐾 RescueMe
+
+A smart platform for reporting, rescuing, treating, and adopting street animals.
+
+### Highlights
+
+- Animal reporting system
+- Rescue workflow
+- Adoption management
+- Volunteer coordination
+
+**Tech Stack**
+
+HTML • CSS • JavaScript • Backend Integration
+
+---
+
+## 📚 Library Management System
+
+Desktop application that manages books, members, and borrowing operations.
+
+### Features
+
+- Book Management
+- Borrow & Return System
+- Member Management
+- Billing Module
+- Binary Search Tree
+- Waiting Queue
+
+**Tech Stack**
+
+`Java` • `OOP` • `Data Structures`
+
+---
+
+## 🎓 University Campus Management
+
+Desktop application for managing university operations.
+
+### Features
+
+- Student Management
+- Course Registration
+- Faculty Management
+- Administrative Dashboard
+
+**Tech Stack**
+
+`Java` • `Java Swing`
+
+---
+
+## ❌⭕ Tic Tac Toe
+
+Desktop implementation of the classic Tic Tac Toe game.
+
+### Features
+
+- GUI Application
+- Player vs Player
+- Score Tracking
+
+**Tech Stack**
+
+`Python` • `Tkinter`
+
+---
+
+# Currently Learning
+
+- Spring Security
+- Spring Data JPA
+- Docker
+- Microservices
+- AWS Cloud
+- CI/CD
+- Distributed Systems
+- Kubernetes
+
+---
+
+# GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# Connect With Me
+
+- LinkedIn: https://linkedin.com/in/YOUR_LINK
+- Email: YOUR_EMAIL
+- GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+> *"Clean code always looks like it was written by someone who cares."*
