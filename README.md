@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Developing+with+Java+%26+Spring+Boot;Exploring+AWS+%26+Cloud+Architecture;Automating+with+Docker+%26+CI%2FCD" alt="Typing SVG" />
 
-![Profile Views](https://ghstats.dev/api/visits?username=AbdullahSalah3&style=flat-square)
-
 **Computer Science Undergraduate | Backend & Cloud Enthusiast**
 
 I enjoy building backend systems with Java and Spring Boot, designing scalable cloud solutions, and exploring the technologies behind modern distributed applications.
