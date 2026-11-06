@@ -1,18 +1,78 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Enterprise backend projects with Java and full-stack web applications.<br>👯 I’m looking to collaborate on<br>Open-source backend, cloud engineering, and DevOps projects.<br>🤝 I’m looking for help with<br>Advanced AWS architecture patterns and Production-grade CI/CD pipelines.<br>🌱 I’m currently learning<br>AWS Certified Solutions Architect (SAA-C03) prep, Docker, and DevOps tools.<br>💬 Ask me about<br>Backend development, relational databases (SQL design/optimization), and Java.<br>⚡ Fun fact<br>When I’m not writing backend services, I’m building AI engines for mini-games or tackling competitive programming problems
+ <div align="center">
 
+# Hey 👋, I'm Abdullah Salah
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdullah-salah-0a3a20351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+### ☁️ Cloud Engineer | ☕ Java Backend Developer
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AbdullahSalah3&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=AbdullahSalah3&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AbdullahSalah3&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Developing+with+Java+%26+Spring+Boot;Exploring+AWS+%26+Cloud+Architecture;Automating+with+Docker+%26+CI%2FCD" alt="Typing SVG" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=AbdullahSalah3&style=flat-square&color=8957e5&label=PROFILE+VIEWS)
+
+**Computer Science Undergraduate | Backend & Cloud Enthusiast**
+
+I enjoy building backend systems with Java and Spring Boot, designing scalable cloud solutions, and exploring the technologies behind modern distributed applications.
+
+🌱 Currently learning **AWS Solutions Architecture, Docker & CI/CD**
+
+💡 Interested in **Cloud Engineering, Backend Architecture & DevOps**
+
+🤝 Open to collaborating on **Backend, Cloud & Open-Source Projects**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-salah-0a3a20351/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdullahSalah3)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=AbdullahSalah3&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+## 🛠️ Languages & Technologies
+
+### Backend Development
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,js&theme=dark" />
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,git,github&theme=dark" />
+
+### Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" />
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark" />
+
+### Development Environment
+
+<img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,figma&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Statistics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdullahSalah3&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=AbdullahSalah3&theme=github-dark-blue&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahSalah3&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Building Today. Scaling Tomorrow.
+
+*Always learning, always building.*
+
+</div>
