@@ -4,9 +4,9 @@
 
 ### ☁️ Cloud Engineer | ☕ Java Backend Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Developing+with+Java+%26+Spring+Boot;Exploring+AWS+%26+Cloud+Architecture;Automating+with+Docker+%26+CI%2FCD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Developing+with+Java+%26+Spring+Boot;Exploring+AWS+%26+Cloud+Architecture;Automating+with+Docker+%26+CI%2FCD" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=AbdullahSalah3&style=flat-square&color=8957e5&label=PROFILE+VIEWS)
+![Profile Views](https://ghstats.dev/api/visits?username=AbdullahSalah3&style=flat-square)
 
 **Computer Science Undergraduate | Backend & Cloud Enthusiast**
 
@@ -31,23 +31,25 @@ I enjoy building backend systems with Java and Spring Boot, designing scalable c
 
 ## 🛠️ Languages & Technologies
 
-### Backend Development
+### ☕ Backend Development
 
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,js&theme=dark" />
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,git,github&theme=dark" />
 
-### Databases & Tools
+### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 
-### Frontend Development
+<img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark" />
+### 🌐 Frontend Development
 
-### Development Environment
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+
+### 💻 Development Environment
 
 <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,figma&theme=dark" />
 
@@ -59,11 +61,17 @@ I enjoy building backend systems with Java and Spring Boot, designing scalable c
 
 ## 📊 GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdullahSalah3&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+<img width="75%" src="https://ghstats.dev/api/card?username=AbdullahSalah3&theme=midnight_sakura&hide_border=true" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=AbdullahSalah3&theme=github-dark-blue&hide_border=true" />
+<br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahSalah3&layout=compact&theme=github_dark&hide_border=true" />
+<img width="75%" src="https://ghstats.dev/api/langs?username=AbdullahSalah3&theme=midnight_sakura&layout=donut" />
+
+<br/><br/>
+
+### 📈 Contribution Activity
+
+<img width="90%" src="https://ghstats.dev/api/sparkline?username=AbdullahSalah3&days=30&width=800&height=180&line_color=A855F7&fill_color=8957E5" />
 
 </div>
 
@@ -76,3 +84,11 @@ I enjoy building backend systems with Java and Spring Boot, designing scalable c
 *Always learning, always building.*
 
 </div>
+
+<!--
+External services used:
+- Typing SVG: readme-typing-svg
+- Skill Icons: skillicons.dev
+- GitHub Statistics: ghstats.dev
+- Badges: shields.io
+-->
